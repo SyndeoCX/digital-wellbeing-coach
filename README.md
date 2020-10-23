@@ -1,1 +1,1 @@
-# digital-wellbeing-coach
+# Digital Wellbeing Coach
